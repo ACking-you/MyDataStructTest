@@ -1,0 +1,3 @@
+[submodule "third-part/SimpleBenchTool4cpp"]
+	path = third-part/SimpleBenchTool4cpp
+	url = https://github.com/ACking-you/SimpleBenchTool4cpp.git
